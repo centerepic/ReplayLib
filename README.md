@@ -1,3 +1,5 @@
+# ReplayLib has been superseded by Calligraph.
+
 # ReplayAttack v2
 
 A Luau library for capturing and logging metamethod calls in Roblox games.
